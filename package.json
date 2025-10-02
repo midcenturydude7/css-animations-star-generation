@@ -1,0 +1,29 @@
+{
+  "name": "star-generation",
+  "version": "1.0.0",
+  "description": "A JavaScript project for learning star generation and animations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python3 -m http.server 8000",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "stars",
+    "animation",
+    "javascript",
+    "canvas",
+    "learning"
+  ],
+  "author": "midcenturydude7",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "vite": "^6.3.6"
+  }
+}
